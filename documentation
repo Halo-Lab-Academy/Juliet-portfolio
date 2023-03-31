@@ -1,0 +1,22 @@
+Git init - you initial git
+
+Git status - you check the status 
+
+Git add. (you add all the files needed)
+
+Git commit ~ m (comment and let it be concise) 
+
+Git branch -c first branch (you create a branch first, you dont push to the main as best practice)
+
+Git branch (to view the branch you are currently on, which will have asterisk*)
+
+Git checkout first branch (You switch to the branch you created)
+
+Git branch
+
+Git remote add origin (put the link of your remote repository and paste)
+
+Git remote -v
+
+Git push -u origin (paste the link of your remote repository - first branch)
+ 
