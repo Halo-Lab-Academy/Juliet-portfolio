@@ -4,7 +4,7 @@ Git status - you check the status
 
 Git add. (you add all the files needed)
 
-Git commit ~ m (comment and let it be concise) 
+Git commit - m (comment and let it be concise) 
 
 Git branch -c first branch (you create a branch first, you dont push to the main as best practice)
 
