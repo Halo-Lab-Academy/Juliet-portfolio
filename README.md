@@ -5,7 +5,7 @@
 
 # Index HTML file
 
-```
+```yaml
 apiVersion: v1
 kind: Pod
 metadata:
